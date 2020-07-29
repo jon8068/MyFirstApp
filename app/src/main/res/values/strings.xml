@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">MyFirstApp</string>
     <string name="image_name">Cilok Basah</string>
-    <string name="artist_name">Jonathan</string>
+    <string name="artist_name">Nathan</string>
     <string name="source_name">Google</string>
 </resources>
